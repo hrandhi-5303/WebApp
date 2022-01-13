@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site":"cmsc5373-hemasree-webapps",
     "ignore": [
       "firebase.json",
       "**/.*",
